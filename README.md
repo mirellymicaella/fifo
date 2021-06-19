@@ -2,15 +2,15 @@
 Sistema gerenciador de filas e reservas de restaurantes.
 
 # API 
+Em construção... 👩‍🔧
 
-A API está sendo desenvolvido usando Spring MVC com as seguintes ferramentas:
+A API está sendo desenvolvida usando as seguintes ferramentas:
 
-- Spring Boot
-- Spring Data
-- Maven
-- PostgreSQL
-- Hibernate
-- Spring Tool Suite(IDE)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Maven](https://maven.apache.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Hibernate](https://hibernate.org/)
+- [Spring Tool Suite(IDE)](https://spring.io/tools)
 
 # Aplicação web
 Você pode ver o mockup feito com figma [aqui](<https://www.figma.com/file/dpuDG2xaT0ZQo5rJ2Xn6p8/Fifo_web?node-id=0%3A1>).
